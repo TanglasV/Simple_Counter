@@ -3,5 +3,5 @@
     <string name="score_button">Puntuación</string>
     <string name="steal_button">Robar</string>
     <string name="reset_button">Reiniciar</string>
-    <string name="score_label">Puntuación:</string>
+    <string name="score_label">0</string>
 </resources>
