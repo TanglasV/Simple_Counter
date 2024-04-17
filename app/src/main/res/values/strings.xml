@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Counter</string>
+    <string name="score_button">Score</string>
+    <string name="steal_button">Steal</string>
+    <string name="reset_button">Reset</string>
+    <string name="score_label">0</string>
+</resources>
